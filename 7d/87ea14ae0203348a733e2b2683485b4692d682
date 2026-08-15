@@ -1,0 +1,28 @@
+db/db.go
+  h_f32fe69d8c55b6 200-201,1234-1236,1425-1426,2234-2251
+store/store.go
+  h_f32fe69d8c55b6 428,784
+cmd/rqlited/main.go
+  h_f32fe69d8c55b6 435
+db/swappable_db.go
+  h_f32fe69d8c55b6 22,73-75,276-279
+  h_f32fe69d8c55b6 18-21,280-285
+cmd/rqlited/flags.toml
+  h_f32fe69d8c55b6 536-545
+  h_f32fe69d8c55b6 535
+db/db_slow_query_test.go
+  h_f32fe69d8c55b6 1-159
+cmd/rqlited/config_flags.go
+  h_f32fe69d8c55b6 113-114,212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7d87ea14ae0203348a733e2b2683485b4692d682",
+  "prompts": {},
+  "humans": {
+    "h_f32fe69d8c55b6": {
+      "author": "Karan gupta <gupta.karan1.gh@gmail.com>"
+    }
+  }
+}
