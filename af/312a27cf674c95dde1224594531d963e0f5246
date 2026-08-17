@@ -1,0 +1,18 @@
+db/swappable_db.go
+  h_f32fe69d8c55b6 8,49-79,91-92,97-102,104-112,116,118-128,132-134,139,141-144,147-148,150,370-386
+  h_f32fe69d8c55b6 80,93,103,113-115,117,130-131,135,151-156,158-178,387-440
+db/swappable_db_test.go
+  h_f32fe69d8c55b6 5,170
+  h_f32fe69d8c55b6 171-401
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "af312a27cf674c95dde1224594531d963e0f5246",
+  "prompts": {},
+  "humans": {
+    "h_f32fe69d8c55b6": {
+      "author": "Karan gupta <gupta.karan1.gh@gmail.com>"
+    }
+  }
+}
