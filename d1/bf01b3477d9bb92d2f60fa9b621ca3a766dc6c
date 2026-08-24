@@ -1,0 +1,20 @@
+db/query_log.go
+  h_f32fe69d8c55b6 1-100
+db/query_log_driver.go
+  h_f32fe69d8c55b6 1-47
+db/query_log_integration_test.go
+  h_f32fe69d8c55b6 1-183
+db/query_log_test.go
+  h_f32fe69d8c55b6 1-318
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "d1bf01b3477d9bb92d2f60fa9b621ca3a766dc6c",
+  "prompts": {},
+  "humans": {
+    "h_f32fe69d8c55b6": {
+      "author": "Karan gupta <gupta.karan1.gh@gmail.com>"
+    }
+  }
+}
