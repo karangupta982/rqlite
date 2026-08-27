@@ -1,0 +1,18 @@
+store/db_config.go
+  h_f32fe69d8c55b6 4,17
+store/store.go
+  h_f32fe69d8c55b6 780-781
+store/store_query_log_test.go
+  h_f32fe69d8c55b6 12,35,42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "7915313d586e90f1adddaf4eda1703918757291d",
+  "prompts": {},
+  "humans": {
+    "h_f32fe69d8c55b6": {
+      "author": "Karan gupta <gupta.karan1.gh@gmail.com>"
+    }
+  }
+}
